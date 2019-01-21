@@ -1,5 +1,6 @@
 # DynamicModeDecomposition
 Dimensionality Reduction technique similar to PCA without an orthogonality constraint.  Signal Processing.
+
 Based on this original paper, 2008: https://hal-polytechnique.archives-ouvertes.fr/hal-01020654/document
 
 Today we're going to build a DMD model that models a dynamic systems underlying structure.  It is similar to PCA however it has no
@@ -33,3 +34,5 @@ We can see DMD has managed to completely isolate our original component input si
 
 # Compare Model forecast to target:
 ![fig01](https://user-images.githubusercontent.com/34739163/51447013-bd899400-1cd6-11e9-8c15-a75380dace8b.png)
+
+Matlab code is in the repo.
