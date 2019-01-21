@@ -36,3 +36,4 @@ We can see DMD has managed to completely isolate our original component input si
 ![fig01](https://user-images.githubusercontent.com/34739163/51447013-bd899400-1cd6-11e9-8c15-a75380dace8b.png)
 
 Matlab code is in the repo.
+Next project will be to apply this to filter vocals from audio or for stock forecasting.  Stay tune.
